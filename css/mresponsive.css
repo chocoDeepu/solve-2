@@ -1,0 +1,180 @@
+@media only screen and (max-width: 1199px){
+	.middle-sec .sec-1 .intro .intro-imgbox {
+	    width: 100%;
+	}
+	.middle-sec .sec-2 .service h4 {
+	    font-size: 27px;
+	    padding: 13px 15px 9px;
+	}
+	.middle-sec .sec-3 .sta-bg .sta .sta1 {
+	    min-width: 155px;
+	}
+	.middle-sec .sec-1 .intro a {
+	    font-size: 18px;
+	}
+}
+@media only screen and (max-width: 800px){
+	.main-header .logobox img{
+		width: 220px;
+		height: 50px;
+	}
+	.middle-sec .sec-1 .intro h5{
+		font-size: 20px;
+	}
+	.middle-sec .sec-1 .intro h4{
+		font-size: 32px;
+	}
+	.middle-sec .sec-1 .intro a{
+		margin-bottom: 10px;
+		padding: 1px 8px 3px;
+	    font-size: 18px;
+	}
+	.middle-sec .sec-1 .intro .intro-imgbox {
+	   width: 100%;
+	   height: 260px;
+	}
+	.middle-sec .sec-1 .side-bar{
+		width: 100%;
+	}
+	.middle-sec .sec-1 .side-bar h4{
+		margin-top: 0px;
+	}
+	.middle-sec {
+	    padding: 20px 0 0px;
+	}
+	.middle-sec .sec-1 .side-bar-c {
+	    padding: 10px 10px 10px;
+	}
+	.middle-sec .sec-1 {
+	    padding: 20px 0 10px;
+	}
+	.middle-sec .sec-2 {
+	    padding: 10px 0 20px;
+	}
+	.middle-sec .sec-2 .service h4{
+		font-size: 20px;
+		width: 100%;
+	}
+	.middle-sec .sec-3 .sta-bg .sta-head {
+		padding: 0;
+	}
+	.middle-sec .sec-3 .sta-bg .sta .sta1{
+		margin: 15px auto;
+		width: 250px;
+	}
+	.middle-sec .sec-4 .depo-bg .depo-head{
+		padding: 0;
+	}
+	.middle-sec .sec-3 .sta-bg .sta-head h2{
+		margin: 0 0 10px;
+		padding: 0;
+	}
+	.middle-sec .sec-4 .depo-bg .depo-head h2{
+		padding: 0;
+		margin: 10px 0;
+	}
+	.foot-bg{
+		padding: 5px 0;
+	}
+	.foot-bg .foot1 .foot-logo {
+	    padding: 25px 0px 10px;
+	}
+	.foot-bg .foot1 .pay {
+	    text-align: center;
+	}
+	.foot-bg .foot2 .foot-soci {
+	    padding: 27px 0;
+	    text-align: center;
+	}
+	.foot-bg .foot2 .foot-links ul {
+	    text-align: center;
+	}
+	.foot-bg .foot3 .foot-copy {
+	    padding: 10px 0;
+	    text-align: center;
+	}
+	.foot-bg .foot3 .foot-sec{
+		text-align: center;
+		padding: 0;
+	}
+}
+@media only screen and (max-width:600px ){
+	.main-header .menu .navbar-toggle {
+	    display: block;
+	}
+	.main-header .menu .main-navigation .navigation { display: none; }
+	.middle-sec .sec-1 .intro h5{
+		font-size: 20px;
+	}
+	.middle-sec .sec-1 .intro h4{
+		font-size: 32px;
+	}
+	.middle-sec .sec-1 .intro a{
+		margin-bottom: 10px;
+		padding: 1px 8px 3px;
+	    font-size: 18px;
+	}
+	.middle-sec .sec-1 .intro .intro-imgbox {
+	   width: 100%;
+	   height: 260px;
+	}
+	.middle-sec .sec-1 .side-bar{
+		width: 100%;
+	}
+	.middle-sec .sec-1 .side-bar h4{
+		margin-top: 20px;
+	}
+	.middle-sec {
+	    padding: 20px 0 0px;
+	}
+	.middle-sec .sec-1 .side-bar-c {
+	    padding: 10px 10px 10px;
+	}
+	.middle-sec .sec-1 {
+	    padding: 20px 0 10px;
+	}
+	.middle-sec .sec-2 {
+	    padding: 10px 0 20px;
+	}
+	.middle-sec .sec-3 .sta-bg .sta-head {
+		padding: 0;
+	}
+	.middle-sec .sec-3 .sta-bg .sta .sta1{
+		margin: 15px auto;
+		width: 250px;
+	}
+	.middle-sec .sec-4 .depo-bg .depo-head{
+		padding: 0;
+	}
+	.middle-sec .sec-3 .sta-bg .sta-head h2{
+		margin: 0 0 10px;
+		padding: 0;
+	}
+	.middle-sec .sec-4 .depo-bg .depo-head h2{
+		padding: 0;
+		margin: 10px 0;
+	}
+	.foot-bg{
+		padding: 5px 0;
+	}
+	.foot-bg .foot1 .foot-logo {
+	    padding: 25px 0px 10px;
+	}
+	.foot-bg .foot1 .pay {
+	    text-align: center;
+	}
+	.foot-bg .foot2 .foot-soci {
+	    padding: 10px 0;
+	    text-align: center;
+	}
+	.foot-bg .foot2 .foot-links ul {
+	    text-align: center;
+	}
+	.foot-bg .foot3 .foot-copy {
+	    padding: 10px 0;
+	    text-align: center;
+	}
+	.foot-bg .foot3 .foot-sec{
+		text-align: center;
+	}
+}
